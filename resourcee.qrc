@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Logo_-_Maghreb_Steel_(1).jpg</file>
+    <file>ccccc.jpg</file>
+    <file>mains.jpeg</file>
+    <file>stock.png</file>
+  </qresource>
+</RCC>
